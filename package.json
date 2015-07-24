@@ -1,0 +1,23 @@
+{
+  "name": "bm-random",
+  "version": "1.0.0",
+  "description": "A collection of some useful functions that use random",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m4w4q7/bm-random.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "m4w4q7",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4"
+  }
+}
